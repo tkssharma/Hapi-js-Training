@@ -1,0 +1,25 @@
+{
+  "name": "hapi-proect",
+  "version": "1.0.0",
+  "description": "Hapi Project with Boostrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "budy k",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^2.6.1",
+    "hapi": "^8.2.0",
+    "joi": "^5.1.0",
+    "mongoose": "3.8.23",
+    "lite-server" : "*",
+    "good": "^6.6.3",
+    "good-console": "^5.1.0",
+    "handlebars": "^4.0.3",
+    "hapi-cache-buster": "~0.4.0",
+    "inert": "^3.2.1",
+    "path": "^0.12.7",
+    "vision": "^3.0.0"
+  }
+}
