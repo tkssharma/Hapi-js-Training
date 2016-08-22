@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tarun <tkssharma.github.io>",
-  "license": "MIT",
+  
+"license": "MIT",
   "dependencies": {
     "bcrypt": "~0.8.7",
     "boom": "~3.2.2",
